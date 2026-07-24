@@ -8,7 +8,7 @@ The code is written in **Literate Haskell** and designed to support formal corre
 
 ## Context
 
-- Requested by **Telespazio** as a formal verification of the Pocket+ protocol.
+- Suggested by **Telespazio** as a formal verification of the Pocket+ protocol.
 - Originally started as a Bachelor's final project (February 2025) and continued in a Master's Formal Methods course.
 
 The goal is to provide a clear implementation of the Pocket+ Encoder and Decoder and produce a formal specification and proofs that core components compose correctly.
