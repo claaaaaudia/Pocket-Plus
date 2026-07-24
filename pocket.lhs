@@ -2349,10 +2349,10 @@ parse _ = Nothing
 \end{spec}
 where |i1| and |i2| are transliterated to the |Maybe| data type, as required by Haskell's \emph{unfoldr} combinator used in (\ref{eq:uncounting}). Formally calculating this last step of the exercise is not immediate and is left for future work.
 
-xxx Missing part:
-
-|takeWhile (/=1) . minb = nil| for positive inputs.
-
-TBC
+%	xxx Missing part:
+%	
+%	|takeWhile (/=1) . minb = nil| for positive inputs.
+%	
+%	TBC
 
 \end{document}
