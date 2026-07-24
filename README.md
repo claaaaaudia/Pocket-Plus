@@ -20,7 +20,7 @@ Engineers can use this implementation as a reference due to its simplicity and t
 | Area                  | Status                                  |
 |------------------------|------------------------------------------|
 | Resynchronization      | Not implemented yet                     |
-| Proofs                 | In progress, focused on the run-length encoding component |
+| Proofs                 | In progress, focused on the RLE component so far |
 
 ## How to Read the Code
 
