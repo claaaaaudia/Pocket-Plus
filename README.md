@@ -19,8 +19,9 @@ Engineers can use this implementation as a reference due to its simplicity and t
 
 | Area                  | Status                                  |
 |------------------------|------------------------------------------|
-| Resynchronization      | Not implemented yet                     |
-| Proofs                 | In progress, focused on the RLE component so far |
+| Resynchronization      | Not implemented yet |
+| Verification           | In progress, focused on the RLE component so far |
+| Validation             | In progress |
 
 ## How to Read the Code
 
